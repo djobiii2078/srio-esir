@@ -22,4 +22,4 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 
 | Dates  | Type | Titre | Evaluation | Date de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
-| 06/09/2021      | Devoir 1 | Résumé + Risques potentiels  |  Rapport    |  08/09/2022   |
+| 06/09/2022      | Devoir 1 | Résumé + Risques potentiels  |  Rapport    |  08/09/2022   |
