@@ -3,7 +3,7 @@
 ## Responsable de module
 
 - Djob Mvondo (barbe-thystere.mvondodjob@univ-rennes1.fr)
-- 
+
 ## La procédure d'évaluation
 
 Ce module sera évalué sur la base des rapports et du code issu des TP et d'un oneshot sur table durant le semestre.
