@@ -6,7 +6,7 @@
 
 ## La procédure d'évaluation
 
-Ce module sera évalué sur la base des rapports et du code issu des TP et d'un oneshot sur table durant le semestre.
+Ce module sera évalué sur la base des rapports et du code issu des TP, débats, et d'un oneshot sur table (théorie et pratique) durant le semestre.
 
 Ces rapports doivent fidèlement rendre compte de votre travail.
 Vous y écrirez ce que vous comprenez des exercices, les différents problèmes que vous rencontrez et comment vous réussissez à les résoudre, ainsi que les réponses au questions théoriques présentes dans les sujets de TP. Les TPs peuvent être réaliser en binôme ou seul (un TP fait en binôme implique que les rendus sont commun).
