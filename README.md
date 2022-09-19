@@ -20,7 +20,7 @@ Les dates de soumissions indiqués corresondent au dernier jour ou vous pourrez 
 
 On utilisera Github Classroom pour tracer les heures de soumission et votre évolution pour les TDs/TPs.
 
-| Dates  | Type | Titre | Evaluation | Date de soumission
+| Dates  | Type | Titre | Evaluation | Date limite de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
 | 09/09/2022      | Devoir 1 | Résumé + Risques potentiels  |  Rapport    |  15/09/2022   |
 | 09/09/2022      | Devoir 2 | Vulnérabilités + SQLi  |  Rapport    |  15/09/2022   |
