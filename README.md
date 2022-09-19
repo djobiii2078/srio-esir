@@ -23,3 +23,5 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 | Dates  | Type | Titre | Evaluation | Date de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
 | 09/09/2022      | Devoir 1 | Résumé + Risques potentiels  |  Rapport    |  15/09/2022   |
+| 09/09/2022      | Devoir 2 | Vulnérabilités + SQLi  |  Rapport    |  15/09/2022   |
+| 20/09/2022      | Devoir 3 | Ingé social + principe sécu + droits Linux | Rapport | 27/09/2022 |
