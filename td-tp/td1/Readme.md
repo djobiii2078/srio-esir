@@ -103,14 +103,12 @@ A la suite de vos résultats à l'exercice précedent, on vous demande de mettre
  
  # cycle thru data and show a label,
  for index in "${!labels[@]}"
-    do
-          tput setaf $(expr $index + 1); # don't use 0 (black)
-          printf " %10s " "${labels[index]}"
-          eval "printf '█%.0s' {1..${values[index]%.*}}"
-          printf " %s \n\n" ${values[index]} 
-    done
-    sleep 10
-done
+ do
+    tput setaf $(expr $index + 1); # don't use 0 (black)
+    printf " %10s " "${labels[index]}"
+    eval "printf '█%.0s' {1..${values[index]%.*}}"
+    printf " %s \n\n" ${values[index]} 
+ done
 ```
 
 3. Modifier votre précèdent script pour pouvoir mettre à jour la courbe chaque 10s. Tester votre nouveau script en lançant le mécanisme de surveillance durant 300s et vérifier si votre courbe se mets correctement à jour.
