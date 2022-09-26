@@ -89,7 +89,7 @@ A la suite de vos résultats à l'exercice précedent, on vous demande de mettre
 
 
 
-```
+```bash
 #!/bin/bash
  labels=( "hr" "finance" "recherche" "defense")
  values=( 20 40 60 30)
