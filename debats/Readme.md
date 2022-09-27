@@ -32,6 +32,18 @@ Si un groupe est absent ou un membre du groupe ne participe pas au débat, il au
 
 # Sujet pour les débats
 
+## Débat 1
+
+Votre entreprise fait un chiffre d'affaires de 12 millions d'euros par an pour un bénéfice nette de 2 millions d'euros. Son produit principal est un capteur de mobilité utilisé dans les centres commerciales, hôtels, et mairies. 
+
+Conscient des enjeux sécuritaires, elle voudrait injecter 500K euros pour renforcer la sécurité de ces produits. Malheureusement, deux groupes d'ingénieurs s'affrontent pour investir ces fonds pour se prémunir contre des failles d'intrusions permettant à un individu d'avoir accès au capteur de mobilité et un autre groupe voudrait investir pour se prémunir contre la corruption des données (vol/revente) enregistré par le capteur.
+
+Votre rôle est de choisir un camp et le défendre en montrant clairement les causes de négliger votre opinion, la pertinence par rapport à votre marché, et les coûts technologiques de suivre l'autre camp.
+
+## Participants
+
+
+
 
 
 
