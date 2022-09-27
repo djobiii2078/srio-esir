@@ -42,12 +42,9 @@ Votre rôle est de choisir un camp et le défendre en montrant clairement les ca
 
 ## Participants
 
-
-| GROUPE 1 	| GROUPE 2 	| Date de passage	|
-| LET DET NOEMIE & CLEMENT LEMANE | COULIBALY YELLI MAWA ANASTHASIE & THOMAS BENALOUANE | 11-10-2022 |
-|:--------------:	|:-------:	|:----------:	|:---------------:	|
-
-
+|           **GROUPE 1**          	|                     **GROUPE 2**                    	| **Date de passage** 	|
+|:-------------------------------:	|:---------------------------------------------------:	|:-------------------:	|
+| LET DET NOEMIE & CLEMENT LEMANE 	| COULIBALY YELLI MAWA ANASTHASIE & THOMAS BENALOUANE 	| 11-10-2022          	|
 
 
 
