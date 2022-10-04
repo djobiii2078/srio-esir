@@ -30,7 +30,7 @@ Ce TP servira d'un rappel des commandes de bases d'un noyau Unix et l'évaluatio
 1. Créer les deux dossiers **HACKER** et **CRACKER** en une seule commande dans le répertoire où tu te situes 
 2. Renommer le dossier **CRACKER** avec le nom **BLACKHAT**
 3. Créer (en une seule commande) le fichier toto.txt et y ajouter le message suivant (**I ........ because  ...... iiiiiiiii.**)
-4. Copier le fichier toto.txt dans les répertoires **ANDIN** et **BLACKHAT** (en une seule commande)
+4. Copier le fichier toto.txt dans les répertoires **HACKER** et **BLACKHAT** (en une seule commande)
 5. Crée un lien symbolique(raccourci) pour chacun des dossiers précédents que vous nommerez à votre guise. 
 6. Taper la commande pour supprimer les dossiers **HACKER** et **BLACKHAT** 
 7. Taper une commande qui pourra vous permettre de vérifier si les liens symboliques existent toujours après suppression des deux dossiers
