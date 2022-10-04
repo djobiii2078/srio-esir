@@ -50,15 +50,6 @@ Avec 3 collègues, vous décidez de monter une startup spécialisée pour aider 
 
 Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur vision tout en montrant les failles de l'autre vision.
 
-## Débat 2
-
-Avec 3 collègues, vous décidez de monter une startup spécialisée pour aider les entreprises migrer vers le métavers (application VR, conception d'avatar, etc.). 
-Étant une boîte qui voudrait inspirer le futur, vous voulez un système de protection pour entrer dans le bâtiment qui se veut innovant et futuriste. Malheureusement, deux clans s'affrontent : 
-- Le premier clan voudrait un système d'authentification à l'entrée qui se base sur un capteur de poids et capteur 2D de la rétine pour savoir si une personne est autorisée ou non à entrer dans le bâtiment.
-- Le deuxième clan propose plutôt un système basé sur une clé Radio Frequence Identification RFID  qui dispose d'une valeur de 64 caractères qui change chaque 24 heures. Toute personne possédant la clé avec une valeur valide est autorisée à accéder au bâtiment.
-
-Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur vision tout en montrant les failles de l'autre vision.
-
 
 # Participants
 
