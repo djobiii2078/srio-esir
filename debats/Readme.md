@@ -42,7 +42,7 @@ Votre rôle est de choisir un camp et le défendre en montrant clairement les ca
 
 ## Débat 2
 
-Avec 3 collègues, vous décidez de monter une startup spécialisée pour aider les entreprises migrer vers le métavers (application VR, conception d'avatar, etc.). 
+Avec 3 collègues, vous décidez de monter une startup spécialisée pour aider les entreprises à migrer vers le métavers (application VR, conception d'avatar, automatisation des interactions, etc.). 
 
 Étant une boîte qui voudrait inspirer le futur, vous voulez un système de protection pour entrer dans le bâtiment qui se veut innovant et futuriste. Malheureusement, deux clans s'affrontent : 
 - Le premier clan voudrait un système d'authentification à l'entrée qui se base sur un capteur de poids et capteur 2D de la rétine pour savoir si une personne est autorisée ou non à entrer dans le bâtiment.
