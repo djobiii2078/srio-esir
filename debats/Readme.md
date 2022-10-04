@@ -56,5 +56,5 @@ Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur vision tout
 |    #    	|           **GROUPE 1**          	|                     **GROUPE 2**                    	| **Date de passage** 	|
 |:-------:	|:-------------------------------:	|:---------------------------------------------------:	|:-------------------:	|
 | Débat 1 	| LET DET NOEMIE & CLEMENT LEMANE 	| COULIBALY YELLI MAWA ANASTHASIE & THOMAS BENALOUANE 	|      21-10-2022     	|
-| Débat 2 	|                                 	|                                                     	|      21-10-2022      	|
+| Débat 2 	|         ALBIN SENE & MAEL GALLOU  |     KONAN DAVID ONESIME & GHARBI LAMIA                       	|      21-10-2022      	|
 
