@@ -50,6 +50,20 @@ Avec 3 collègues, vous décidez de monter une startup spécialisée pour aider 
 
 Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur vision tout en montrant les failles de l'autre vision.
 
+## Débat 3
+
+
+Avec vos collègues, vous êtes embauché par une entreprise afin de développer des équipements connectés pour surveiller un élevage de porc. 
+Dû à la faible portée des équipements de ce type, il va falloir déployer plusieurs équipements sur tout l'élevage. 
+Les équipements doivent pouvoir échanger des informations pour prendre les décisions correctement pour l'élevage en plus de la collecte de statistiques.
+
+Il faut donc s'entendre sur un protocole de communication pour vos équipements pour assurer l'intégrité, l'authentification, et l'ajout d'un nouvel équipement sur le réseau pour permettre des échanges fluides. Malheureusement, deux clans s'affrontent :
+
+- Le premier voudrait se baser sur les protocoles existants (WEP, WPA2/3, LORA, etc.) et y greffer des mécanismes pour sécuriser pour un VPN ou des algorithmes de chiffrement supplémentaires.
+- Le deuxième groupe voudrait construire de zéro le protocole pour qu'il soit optimisé à votre cas d'utilisation et ne pas dépendre d'une technologie propriétaire (la souveraineté numérique.)
+
+Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur approche tout en montrant les failles de l'autre approche.
+
 
 # Participants
 
