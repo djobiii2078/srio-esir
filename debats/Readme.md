@@ -64,6 +64,14 @@ Il faut donc s'entendre sur un protocole de communication pour vos équipements 
 
 Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur approche tout en montrant les failles de l'autre approche.
 
+## Débat 4
+
+Un débat de routine se déclenche dans le service sécurité de votre entreprise.
+Le sujet concerne quelle type d'attaques est plus difficle à se défendre contre elle entre un déni de service (DOS/DDOS) ou Man in the Middle (MITM).
+Cette question est complexe, vu qu'elle peut être analysé sous plusieurs angles: coût, infrastructure, impact sur les services existants, etc.
+
+Néamoins, vous décidez de mener votre recherche pour soutenir un clan et proposer un argumentaire solide soutenant que l'attaque que vous avez choisi est la plus difficile à combattre. Chaque groupe doit se mettre dans la peau d'une personne défendant qu'une des deux attaques est plus complexe.
+
 
 # Participants
 
@@ -72,4 +80,5 @@ Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur approche to
 | Débat 1 	| LET DET NOEMIE & CLEMENT LEMANE 	| COULIBALY YELLI MAWA ANASTHASIE & THOMAS BENALOUANE 	|      21-10-2022     	|
 | Débat 2 	|         ALBIN SENE & MAEL GALLOU  |     KONAN DAVID ONESIME & GHARBI LAMIA                       	|      21-10-2022      	|
 | Débat 3 	|         YOHANN CHAGENAU & GRAVEC THEO  |        NYATSIKOR YAWA GERMAINE & BASLE NATHAN                   	|      14-11-2022      	|
+| Débat 4   | COSTAN ZOE & MODJO FONTCHA ARTHUR  |  ANDRE THOMAS & MONTCHA GLORIA MERVEILLE  | 14-11-2022 |  
 
