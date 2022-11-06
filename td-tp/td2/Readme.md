@@ -28,7 +28,7 @@ Maintenant, on va évaluer le cout de cette correction sur la performance de not
 Vous collectez les données pour la méthode d'authentification à risque et celle utilisant les *prepared request/statements*. 
 5. Tracer les résultats obtenus sur une courbe (je vous préconise des diagrammes de bars comme la figure ci-dessous) et commenter les résultats obtenus.
 
-![Graphique pour les courbes](./GraphiqueExe.png)
+![Graphique pour les courbes](./graphs.PNG)
 
 
 ## Déni de service
