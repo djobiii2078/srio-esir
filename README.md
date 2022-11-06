@@ -26,5 +26,4 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 | 09/09/2022      | Devoir 2 | Vulnérabilités + SQLi  |  Rapport    |  15/09/2022   |
 | 20/09/2022      | Devoir 3 | Ingé social + principe sécu + droits Linux | Rapport | 27/09/2022 |
 | 27/09/2022      | [TD1](https://github.com/djobiii2078/srio-esir/tree/main/td-tp/td1)      | Rappels commandes + Scripts droits d'accès | Code | 01/12/2022 |
-| 27/10/2022 | Devoir 4 | Failles des protocoles de communication | Rapport | 09/11/2022 |
 
