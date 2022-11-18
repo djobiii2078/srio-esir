@@ -4,7 +4,7 @@ L'objectif de cet exercice est d'implémenter une attaque SQLi qui exploite les 
 
 ## La plateforme 
 
-1. Développez un formulaire web de connexion simple avec les champs (**Email** et **Mot de Passe**) et un bouton **Connexion**. Vous utiliserez le langage/framework de votre choix.
+1. Développez un formulaire web (ou client en ligne de commande) de connexion simple avec les champs (**Email** et **Mot de Passe**) et un bouton **Connexion**. Vous utiliserez le langage/framework de votre choix.
 2. Écrivez le code serveur qui sera appelé pour authentifier un(e) utilisateur(ice). La fonction devra regarder dans une base de données SQL (Mysql, Postgres, ou SQLite), pour authentifier un utilisateur. Vous utiliserez la méthode naïve, c.-à-d. en concaténant les entrées de l'utilisateur dans une chaine de caractère qui fera la requête d'extraction.
 
 ## SQLi Testing
