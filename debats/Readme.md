@@ -72,6 +72,15 @@ Cette question est complexe, vu qu'elle peut être analysé sous plusieurs angle
 
 Néamoins, vous décidez de mener votre recherche pour soutenir un clan et proposer un argumentaire solide soutenant que l'attaque que vous avez choisi est la plus difficile à combattre. Chaque groupe doit se mettre dans la peau d'une personne défendant qu'une des deux attaques est plus complexe.
 
+## Débat 5 - 6
+
+Une boite se soucie des buffer overflow et ne sait pas si la meilleure solution c'est d'implémenter toutes les protections (canaries, ASLR, etc.) au risque de voir les performances diminuer ou juste former le personnel sur les meilleures pratiques de programmation. De plus, elle se demande quel système d'exploitation utilisé pour combattre au mieux les failles et évoluer dans le temps.
+
+**Débat 5**: Defender l'idée que former le personnel est une meilleure approche ou l'idée qu'implémenter les mécanismes de protections serait plus adaptés.
+
+**Débat 6**: Choisissez entre une distribution Linux et Windows et défendez le système d'exploitation de votre choix (par rapport à la problématique de la sécurité). 
+
+
 
 # Participants
 
@@ -81,4 +90,6 @@ Néamoins, vous décidez de mener votre recherche pour soutenir un clan et propo
 | Débat 2 	|         ALBIN SENE & MAEL GALLOU  |     KONAN DAVID ONESIME & GHARBI LAMIA                       	|      21-10-2022      	|
 | Débat 3 	|         YOHANN CHAGENAU & GRAVEC THEO  |        NYATSIKOR YAWA GERMAINE & BASLE NATHAN                   	|      14-11-2022      	|
 | Débat 4   | COSTAN ZOE & MODJO FONTCHA ARTHUR  |  ANDRE THOMAS & MONTCHA GLORIA MERVEILLE  | 14-11-2022 |  
+| Débat 5   | GAILLARD NOEMIE & DAVID CORENTIN | POTIN ENZO & BESNARD VALENTIN | 29-11-2022 |
+| Débat 6   | KOIZAN IVOR & HILLIOU MARINE & THIBAUD LEQUERTIER | KONE MORY & BABIN WILLIAM  | 29-11-2022 |
 
