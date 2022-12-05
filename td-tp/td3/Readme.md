@@ -50,7 +50,7 @@ Il vous faut nettoyer vos traces en supprimant les logs de votre système.
 - Pour vous, un fichier log représente quoi ?
 - Où sont sauvegardés la plupart des logs dans une distribution Linux ? Et Windows ? Et MacOs ?
 - Localisez et supprimer les logs qui concernent les démarrages de votre ordinateur, l'historique de vos commandes et les différentes connexions sur votre PC.
-- Avez-vous Une méthode pour éviter de générer trop de logs sur votre station lors d'une attaque ? Décrivez là.
+- Avez-vous une méthode pour éviter de générer trop de logs sur votre station lors d'une attaque ? Décrivez là.
 
 ## Ransomware 
 
