@@ -5,7 +5,7 @@ L'objectif de ce TP est d'éffectuer plusieurs attaques qui exploitent les faill
 
 
 ## Hacker un point d'accès 
-On fait appel à vous pour faire tomber le point d'accès d'une entreprise en menant une attaque de type \textbf{DOS}.
+On fait appel à vous pour faire tomber le point d'accès d'une entreprise en menant une attaque de type **DOS**.
 
 - Que signifie **DOS** ? Faîtes un schéma explicatif simple pour illustrer.
 - Le point d'accès utilise WPA2 pour l'authentification et encrypter les communications. À quoi sert une PSK? Pour quelles raisons ?
