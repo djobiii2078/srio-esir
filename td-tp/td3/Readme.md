@@ -63,7 +63,7 @@ Votre ransomware entrera dans chaque dossier du repertoire et :
     - Pour chaque fichier, si le contenu est textuel, appliquer l'algorithme de Cesar à cinq décalages.
 
 Par précaution pour vous-même, écrivez l'antidote de votre ransomware afin de vous prémunir en cas d'une attaque réflexive ou en marge de négotiation. 
-Appelez vos deux programmes (virus et antidote) \\NOM\_PRENOM\_VIRUS.sh et NOM\_PRENOM\_CORR.sh où NOM et PRÉNOM correspondent à vos noms et prénoms.
+Appelez vos deux programmes (virus et antidote) NOM_PRENOM_VIRUS.sh et NOM_PRENOM_CORR.sh où NOM et PRÉNOM correspondent à vos noms et prénoms.
 
 D'après vous, quelles sont les principes de sécurités qu'il faut appliquer pour se prémunir de ce type d'attaques ? 
 
