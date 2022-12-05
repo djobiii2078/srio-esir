@@ -7,7 +7,7 @@ L'objectif de ce TP est d'éffectuer plusieurs attaques qui exploitent les faill
 ## Hacker un point d'accès 
 On fait appel à vous pour faire tomber le point d'accès d'une entreprise en menant une attaque de type \textbf{DOS}.
 
-- Que signifie \textbf{DOS} ? Faîtes un schéma explicatif simple pour illustrer.
+- Que signifie **DOS** ? Faîtes un schéma explicatif simple pour illustrer.
 - Le point d'accès utilise WPA2 pour l'authentification et encrypter les communications. À quoi sert une PSK? Pour quelles raisons ?
 
 Afin de réaliser la tâche qui vous ait demandé, installez la suite `aircrack-ng` et `wireshark`:
@@ -17,7 +17,7 @@ sudo apt update
 sudo apt install aircrack-ng wireshark
 ```
 - Maintenant, commencer par lister l'ensemble des interfaces réseaux de votre station/pc: `ipconfig` ou `ip a` 
-- Démarrer airmon-ng sur votre interface wifi (ici on considère que l'interface se nomme `wlan1`) : `airmon-ng start wlan1`
+- Démarrer airmon-ng sur votre interface wifi (ici on considère que l'interface se nomme `wlan1` ) : `airmon-ng start wlan1`
 
 Cette commande crée une nouvelle interface en mode monitor ayant comme nom: **wlan1mon** suivant votre système. 
 Vérifier l'existence de cette interface. Il se peut que votre carte wifi ne supporte pas le mode **moniteur/injecteur**.  Dans ce cas, il faudrait passer par une antenne WiFi.
