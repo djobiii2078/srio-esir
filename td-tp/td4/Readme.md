@@ -1,4 +1,4 @@
-# TP2: Détecter des vulnérabilités à partir du tas des processus
+# TP4: Détecter des vulnérabilités à partir du tas des processus
 
 1. Ecrire un programme dans le langage de votre choix (je vous conseille en bash) qui analysera periodiquement le tas de tous les processus en cours d'exécution et affichera les zones vulnérable à un buffer overflow (les non-protégées en ecriture), les zones vulnérables à de la corruption (non-protégées en lecture), et susceptible à être détourner par les processus fils (les protected).
 
