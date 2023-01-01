@@ -169,8 +169,8 @@ Par contre, si votre structure de représentation changes, vous n'aurez pas forc
 
 3. Lorsque vous faîtes un "ls -la", vous obtenez la liste des dossiers, fichiers avec les droits qui y sont associés.
 De plus, avec sudo -u <user> <commande>, vous pouvez executer une commande en étant un autre utilisateur.
-Par exemple: sudo -u jimmy ls -la, exécuterez la commande `ls -la` comme si c'était l'utilisateur `jimmy` (si jimmy existe).
-Grâce à cela, vous obtenez les droits sur les dossiers concernés et pouvez comparer avec ceux de votre fichier en entrée pour déterminer si tout est conforme ou non. 
+Par exemple: `sudo -u jimmy ls -la`, exécuterez la commande `ls -la` comme si c'était l'utilisateur `jimmy` (si jimmy existe).
+Grâce à cela, vous obtenez les droits sur les dossiers concernés et pouvez comparer avec ceux de votre fichier en entrée pour déterminer si tout est conforme ou non.  
 
 ## Question 6
 
