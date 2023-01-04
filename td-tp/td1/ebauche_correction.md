@@ -136,13 +136,13 @@ usermod -G $1 $2
 # Cette fonction mets à jour les permissions d'un utilisateurs $1, de niveau $2, avec les droits $3
 #
 updatePermissions(){
-if [ "$1" -eq "1"]; then
+if [ "$2" -eq "1"]; then
 	for folder in ${level1_folders[@]};do
 			setfacl -m u:$1:$3 folder  
 	done
 fi 
 
-if [ "$1" -eq "2"]; then 
+if [ "$2" -eq "2"]; then 
 	for folder in ${level1_folders[@]};do
 			setfacl -m u:$1:$3 folder  
 	done
@@ -150,7 +150,7 @@ if [ "$1" -eq "2"]; then
 			setfacl -m u:$1:$3 folder  
 	done
 	
-if [ "$1" -eq "3"]; then 
+if [ "$2" -eq "3"]; then 
 	for folder in ${level1_folders[@]};do
 			setfacl -m u:$1:$3 folder  
 	done
