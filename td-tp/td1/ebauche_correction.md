@@ -120,7 +120,8 @@ initFolders(){
 #
 
 createUser(){
-useradd -m -s /usr/bin/bash $1 #les options -m et -s c'est pour créer un dossier home et permettre que l'utilisateur puisse lancer des scripts
+useradd -m -s /usr/bin/bash $1 
+#les options -m et -s c'est pour créer un dossier home et permettre que l'utilisateur puisse lancer des scripts
 }
 
 #
