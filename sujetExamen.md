@@ -181,7 +181,7 @@ de façon sécurisée. Pour cela, étendre le script pour qu'à la fin du dictio
 et 3 pour les voyelles). 
 
 3. Tracer une courbe qui montre le temps que mets votre script pour générer un dictionnaire 
-avec et sans chiffrement pour 10, 100, et 200 employés.
+avec et sans chiffrement pour 200, 400, 600, 800, et 1000 employés.
 Pour chaque catégorie, ressortir une moyenne, 95 et 99ᵉ percentile. 
 
 ## Déchiffrement d'un point d'accès et nettoyage des traces. 
