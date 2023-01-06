@@ -5,6 +5,7 @@ Sur chaque équipement (caméra), le firmware tourne sur Debian Jessy.
 Dû à une faible capacité de stockage, les enregistrements journaliers sont sauvegardés sur des serveurs distants. Ces enregistrements sont disponibles grâce à une plateforme web sécurisée grâce à un mécanisme d'authentification. 
 
 **Attaquants**
+
 Une entreprise concurrente vous appelle afin de pouvoir faire tomber SRIOEYE. Pour cela, vous allez être amené à réaliser un ensemble d'opérations à travers des scripts pour collecter, pénétrer, et attaquer les systèmes de SRIOEYE.
 
 **Défenseurs**
