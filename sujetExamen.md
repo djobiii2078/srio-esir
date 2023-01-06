@@ -171,6 +171,7 @@ Vous avez réussi à obtenir les informations concernant
 la date d'anniversaire, la date d'anniversaire des enfants, 
 le jour d'embauche, et la date de naissance des parents pour 
 chaque employé sensible. 
+Ces données sont compilés ici: [stolen_data.csv](./td-tp/srioeye_stolen_data.csv)
 
 1. Écrire un script pour générer un dictionnaire en réalisant 
 des permutations de noms, anniversaires, et date d'embauche de chaque employé. 
