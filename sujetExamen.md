@@ -15,7 +15,7 @@ de leurs systèmes.
 
 1. D'après vous, Debian est-il mieux sécurisé qu'un système Windows ? 
 _________________________________________________
-____________________________________________________
+
 2. D'après votre compréhension du business de SRIOEYE, quelle sont les deux principes de sécurité que vous jugez plus délicat (commentez votre réponse)?
 ____________________________________________________
 
@@ -117,6 +117,9 @@ par une caméra en moins d'une minute ? Sinon, quelle puissance de calcul me fau
 _________________________________________________
 
 5. En hexadécimal, réaliser la conversion des chiffres ci-dessous (en expliquant votre cheminement) : **(1044), (481), (844), (24)**
+
+_________________________________________________
+
 
 6. Vous avez mis la main sur les bouts de code suivant de monitoring ci-dessous. Analyser et déterminer à quelle faille il s'expose avec un exemple concret. Corrigez-les.   
 
