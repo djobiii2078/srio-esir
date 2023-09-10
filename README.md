@@ -6,10 +6,10 @@
 
 ## La procédure d'évaluation
 
-Ce module sera évalué sur la base des rapports et du code issu des TP, débats, et d'un oneshot sur table (théorie et pratique d'une durée de 3h) durant le semestre.
+Ce module sera évalué sur la base des rapports et du code issu des TP, débats, et d'un oneshot sur table (théorie et pratique d'une durée de 3-4h) durant le semestre.
 
 Ces rapports doivent fidèlement rendre compte de votre travail.
-Vous y écrirez ce que vous comprenez des exercices, les différents problèmes que vous rencontrez et comment vous réussissez à les résoudre, ainsi que les réponses au questions théoriques présentes dans les sujets de TP. Les TPs peuvent être réaliser en binôme ou seul (un TP fait en binôme implique que les rendus sont commun).
+Vous y écrirez ce que vous comprenez des exercices, les différents problèmes que vous rencontrez et comment vous réussissez à les résoudre, ainsi que les réponses au questions théoriques présentes dans les sujets de TP. Les TPs doivent être réalisés seul.
 
 Le contrôle terminal portera sur des notions vues en cours, ainsi que sur celles vues en TP à travers les questions théoriques.
 
@@ -22,10 +22,3 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 
 | Dates  | Type | Titre | Evaluation | Date limite de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
-| 09/09/2022      | Devoir 1 | Résumé + Risques potentiels  |  Rapport    |  15/09/2022   |
-| 09/09/2022      | Devoir 2 | Vulnérabilités + SQLi  |  Rapport    |  15/09/2022   |
-| 20/09/2022      | Devoir 3 | Ingé social + principe sécu + droits Linux | Rapport | 27/09/2022 |
-| 27/09/2022      | [TD1](https://github.com/djobiii2078/srio-esir/tree/main/td-tp/td1)      | Rappels commandes + Scripts droits d'accès | Code | 01/12/2022 |
-| 15/11/2022      | Devoir 4 | mmap() + mprotect() - Cas d'utilisation et code | Rapport | 14/12/2022 |
-| -      | [TD2](https://github.com/djobiii2078/srio-esir/tree/main/td-tp/td2)      | SQLi + DOS | Code | 14/12/2022 |
-
