@@ -23,3 +23,4 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 | Dates  | Type | Titre | Evaluation | Date limite de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
 | 12/09/2023 | Devoir | Ingénieurie sociale et controle d'accès Linux | Individuel | 26/09/2023 |
+| 20/09/2023 | Devoir | Attaques MITM et DDOS | Individuel | 04/10/2023 |
