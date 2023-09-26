@@ -24,3 +24,4 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
 | 12/09/2023 | Devoir | Ingénieurie sociale et controle d'accès Linux | Individuel | 26/09/2023 |
 | 20/09/2023 | Devoir | Attaques MITM et DDOS | Individuel | 04/10/2023 |
+| 22/09/2023 | Devoir | Vulnérabilités matérielles | Individuel | 06/10/2023 |
