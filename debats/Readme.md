@@ -42,43 +42,23 @@ Votre rôle est de choisir un camp et le défendre en montrant clairement les ca
 
 ## Débat 2
 
-Avec 3 collègues, vous décidez de monter une startup spécialisée pour aider les entreprises à migrer vers le métavers (application VR, conception d'avatar, automatisation des interactions, etc.). 
+Une boite se soucie des buffer overflow et ne sait pas si la meilleure solution c'est d'implémenter toutes les protections (canaries, ASLR, etc.) au risque de voir les performances diminuer ou juste former le personnel sur les meilleures pratiques de programmation. De plus, elle se demande quel système d'exploitation utilisé pour combattre au mieux les failles et évoluer dans le temps.
 
-Étant une boîte qui voudrait inspirer le futur, vous voulez un système de protection pour entrer dans le bâtiment qui se veut innovant et futuriste. Malheureusement, deux clans s'affrontent : 
-- Le premier clan voudrait un système d'authentification à l'entrée qui se base sur un capteur de poids et capteur 2D de la rétine pour savoir si une personne est autorisée ou non à entrer dans le bâtiment.
-- Le deuxième clan propose plutôt un système basé sur une clé Radio Frequence Identification RFID  qui dispose d'une valeur de 64 caractères qui change chaque 24 heures. Toute personne possédant la clé avec une valeur valide est autorisée à accéder au bâtiment.
 
 Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur vision tout en montrant les failles de l'autre vision.
 
 ## Débat 3
 
+Le même contexte que le débat 2. Néamoins, la discorde se situe au niveau du choix du système d'exploitation à utiliser.
 
-Avec vos collègues, vous êtes embauché par une entreprise afin de développer des équipements connectés pour surveiller un élevage de porc. 
-Dû à la faible portée des équipements de ce type, il va falloir déployer plusieurs équipements sur tout l'élevage. 
-Les équipements doivent pouvoir échanger des informations pour prendre les décisions correctement pour l'élevage en plus de la collecte de statistiques.
-
-Il faut donc s'entendre sur un protocole de communication pour vos équipements pour assurer l'intégrité, l'authentification, et l'ajout d'un nouvel équipement sur le réseau pour permettre des échanges fluides. Malheureusement, deux clans s'affrontent :
-
-- Le premier voudrait se baser sur les protocoles existants (WEP, WPA2/3, LORA, etc.) et y greffer des mécanismes pour sécuriser pour un VPN ou des algorithmes de chiffrement supplémentaires.
-- Le deuxième groupe voudrait construire de zéro le protocole pour qu'il soit optimisé à votre cas d'utilisation et ne pas dépendre d'une technologie propriétaire (la souveraineté numérique.)
-
-Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur approche tout en montrant les failles de l'autre approche.
+Choisissez entre une distribution Linux et Windows et défendez le système d'exploitation de votre choix (par rapport à la problématique de la sécurité). 
 
 ## Débat 4
 
-Un débat de routine se déclenche dans le service sécurité de votre entreprise.
-Le sujet concerne quelle type d'attaques est plus difficle à se défendre contre elle entre un déni de service (DOS/DDOS) ou Man in the Middle (MITM).
-Cette question est complexe, vu qu'elle peut être analysé sous plusieurs angles: coût, infrastructure, impact sur les services existants, etc.
+Les attaques qui exploitent les prédictions de branchement sont très difficiles à détecter et quasi impossible à stopper 
+sans payer une dégradation énorme. Néamoins, l'effet pourrait être amoindri en fonction du processeur utilisé. 
 
-Néamoins, vous décidez de mener votre recherche pour soutenir un clan et proposer un argumentaire solide soutenant que l'attaque que vous avez choisi est la plus difficile à combattre. Chaque groupe doit se mettre dans la peau d'une personne défendant qu'une des deux attaques est plus complexe.
-
-## Débat 5 - 6
-
-Une boite se soucie des buffer overflow et ne sait pas si la meilleure solution c'est d'implémenter toutes les protections (canaries, ASLR, etc.) au risque de voir les performances diminuer ou juste former le personnel sur les meilleures pratiques de programmation. De plus, elle se demande quel système d'exploitation utilisé pour combattre au mieux les failles et évoluer dans le temps.
-
-**Débat 5**: Defender l'idée que former le personnel est une meilleure approche ou l'idée qu'implémenter les mécanismes de protections serait plus adaptés.
-
-**Débat 6**: Choisissez entre une distribution Linux et Windows et défendez le système d'exploitation de votre choix (par rapport à la problématique de la sécurité). 
+Défendez soit les processeurs Intel soit ARM concernant leur robustesse aux attaques covert channel type Spectre ou Meltdown.
 
 
 
@@ -86,10 +66,8 @@ Une boite se soucie des buffer overflow et ne sait pas si la meilleure solution 
 
 |    #    	|           **GROUPE 1**          	|                     **GROUPE 2**                    	| **Date de passage** 	|
 |:-------:	|:-------------------------------:	|:---------------------------------------------------:	|:-------------------:	|
-| Débat 1 	| LET DET NOEMIE & CLEMENT LEMANE 	| COULIBALY YELLI MAWA ANASTHASIE & THOMAS BENALOUANE 	|      21-10-2022     	|
-| Débat 2 	|         ALBIN SENE & MAEL GALLOU  |     KONAN DAVID ONESIME & GHARBI LAMIA                       	|      21-10-2022      	|
-| Débat 3 	|         YOHANN CHAGENAU & GRAVEC THEO  |        NYATSIKOR YAWA GERMAINE & BASLE NATHAN                   	|      14-11-2022      	|
-| Débat 4   | COSTAN ZOE & MODJO FONTCHA ARTHUR  |  ANDRE THOMAS & MONTCHA GLORIA MERVEILLE  | 14-11-2022 |  
-| Débat 5   | GAILLARD NOEMIE & DAVID CORENTIN | POTIN ENZO & BESNARD VALENTIN | 29-11-2022 |
-| Débat 6   | KOIZAN IVOR & HILLIOU MARINE & THIBAUD LEQUERTIER | KONE MORY & BABIN WILLIAM  | 29-11-2022 |
+| Débat 1 	| Bastien Demorieux & Matéo Hany (Corruption données) 	| -	|      02-10-2023     	|
+| Débat 2 	|         Guerinel Thibault & Metayer Elise (Canaries - KASLR)  |     Gallais Tristan & Lebret Flavien (Formation)                       	|      06-10-2023      	|
+| Débat 3 	|         Peio Parquic & Aubry Tonnerre (Linux)  |        Thomas Le Ray & Akobe Charles Kobon (Windows)                   	|      09/10/2023      	|
+| Débat 4   |   |    | 11-10-2023 |  
 
