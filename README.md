@@ -13,6 +13,10 @@ Vous y écrirez ce que vous comprenez des exercices, les différents problèmes 
 
 Le contrôle terminal portera sur des notions vues en cours, ainsi que sur celles vues en TP à travers les questions théoriques.
 
+## CC 2023/2024
+
+https://test.gclocked.com/?form=-NjP0z6hqtMCAhdffk7N 
+
 ## Organisation du cours
 
 Les dates de soumissions des rapports sont strictes. Un rapport soumis en retard est équivalent à une note de 0.
