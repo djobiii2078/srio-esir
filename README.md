@@ -23,3 +23,5 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 
 | Dates  | Type | Titre | Evaluation | Date limite de soumission
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
+| 09/09/2024 | Devoir | Résumé capteurs+actionneurs | - | 17/09/2024
+| :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
