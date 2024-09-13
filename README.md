@@ -21,6 +21,6 @@ Les dates de soumissions indiqués corresondent au dernier jour ou vous pourrez 
 
 On utilisera Github Classroom pour tracer les heures de soumission et votre évolution pour les TDs/TPs.
 
-| Dates  | Type | Titre | Evaluation | Date limite de soumission
+| Dates  | Type | Titre | Evaluation | Date limite de soumission | Lien Github
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: |
-| 09/09/2024 | Devoir | Résumé capteurs+actionneurs | - | 17/09/2024
+| 09/09/2024 | Devoir | Résumé capteurs+actionneurs | - | 17/09/2024 | https://classroom.github.com/a/MMiysw7c 
