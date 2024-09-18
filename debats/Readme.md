@@ -68,4 +68,4 @@ Morgane et Ilyass : corruption des données
 
 |    #    	|           **GROUPE 1**          	|                     **GROUPE 2**                    	| **Date de passage** 	|
 |:-------:	|:-------------------------------:	|:---------------------------------------------------:	|:-------------------:	|
-| Débat 1 	|Hippolyte et Nolan (Faille d'intrusion) 	| Morgane et Ilyass (Corruption des données)	|      11-10-2023     	|
+| Débat 1 	|Hippolyte et Nolan (Faille d'intrusion) 	| Morgane et Ilyass (Corruption des données)	|      11-10-2024     	|
