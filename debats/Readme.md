@@ -60,14 +60,12 @@ sans payer une dégradation énorme. Néamoins, l'effet pourrait être amoindri 
 
 Défendez soit les processeurs Intel soit ARM concernant leur robustesse aux attaques covert channel type Spectre ou Meltdown.
 
+Hippolyte et Nolan : Faille d'intrusion
+Morgane et Ilyass : corruption des données
 
 
 # Participants
 
 |    #    	|           **GROUPE 1**          	|                     **GROUPE 2**                    	| **Date de passage** 	|
 |:-------:	|:-------------------------------:	|:---------------------------------------------------:	|:-------------------:	|
-| Débat 1 	| Bastien Demorieux & Matéo Hany (Corruption données) 	| -	|      02-10-2023     	|
-| Débat 2 	|         Guerinel Thibault & Metayer Elise (Canaries - KASLR)  |     Gallais Tristan & Lebret Flavien (Formation)                       	|      06-10-2023      	|
-| Débat 3 	|         Peio Parquic & Aubry Tonnerre (Linux)  |        Thomas Le Ray & Akobe Charles Kobon (Windows)                   	|      09/10/2023      	|
-| Débat 4   |   |    | 11-10-2023 |  
-
+| Débat 1 	|Hippolyte et Nolan (Faille d'intrusion) 	| Morgane et Ilyass (Corruption des données)	|      11-10-2023     	|
