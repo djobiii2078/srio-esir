@@ -25,3 +25,4 @@ On utilisera Github Classroom pour tracer les heures de soumission et votre évo
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: | :---------------: |
 | 09/09/2024 | Devoir | Résumé capteurs+actionneurs | - | 17/09/2024 | https://classroom.github.com/a/MMiysw7c 
 | 13/09/2024 | Devoir | SQLi research + requests | - | 26/09/2024 | https://classroom.github.com/a/v26Y8Xfb
+| 27/09/2024 | Devoir | mmap() + mprotect() | - | 14/10/2024 | https://classroom.github.com/a/YhAltpnv
