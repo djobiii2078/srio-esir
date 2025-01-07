@@ -13,6 +13,8 @@ Vous y écrirez ce que vous comprenez des exercices, les différents problèmes 
 
 Le contrôle terminal portera sur des notions vues en cours, ainsi que sur celles vues en TP à travers les questions théoriques.
 
+**Lien examen:** https://test.gclocked.com/?form=-OG-SLGDRTVJpgH14PtF
+
 
 ## Organisation du cours
 
