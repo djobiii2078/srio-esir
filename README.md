@@ -13,18 +13,14 @@ Vous y écrirez ce que vous comprenez des exercices, les différents problèmes 
 
 Le contrôle terminal portera sur des notions vues en cours, ainsi que sur celles vues en TP à travers les questions théoriques.
 
-**Lien examen:** https://test.gclocked.com/?form=-OG-SLGDRTVJpgH14PtF
 
 
 ## Organisation du cours
 
 Les dates de soumission des rapports sont strictes. Un rapport soumis en retard est équivalent à une note de 0.
-Les dates de soumissions indiqués corresondent au dernier jour ou vous pourrez déposer vos fichiers (ex : le td3 peut être soumis le 01/12/2024 mais à partir de 00:00 dans la nuit du 01/12/2024 au 02/12/2024 cela ne sera plus possible)
+Les dates de soumissions indiqués corresondent au dernier jour ou vous pourrez déposer vos fichiers (ex : le td3 peut être soumis le 01/12/2025 mais à partir de 00:00 dans la nuit du 01/12/2025 au 02/12/2025 cela ne sera plus possible)
 
-On utilisera Github Classroom pour tracer les heures de soumission et votre évolution pour les TDs/TPs.
+
 
 | Dates  | Type | Titre | Evaluation | Date limite de soumission | Lien Github
 | :------------   | :---------------: | :---------------:               | :---------------: | :---------------: | :---------------: |
-| 09/09/2024 | Devoir | Résumé capteurs+actionneurs | - | 17/09/2024 | https://classroom.github.com/a/MMiysw7c 
-| 13/09/2024 | Devoir | SQLi research + requests | - | 26/09/2024 | https://classroom.github.com/a/v26Y8Xfb
-| 27/09/2024 | Devoir | mmap() + mprotect() | - | 14/10/2024 | https://classroom.github.com/a/YhAltpnv
