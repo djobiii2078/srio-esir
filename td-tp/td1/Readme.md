@@ -72,6 +72,7 @@ Les utilisateurs de niveau **n**, peuvent avoir accès aux dossiers de niveau $\
 1. A l'aide d'un format de données simple (`json`, `xml`, etc.), exprimer l'ensemble des accès possible pour chaque utilisateur dans un fichier.
 2. A l'aide de votre fichier créee précedement, écrivez un script avec le language de votre choix (je vous conseille `bash`) qui permet de créer les utilisateurs et dossiers de la figure ci-dessous avec les droits associés. 
 3. Ecrivez un script qui prend en entrée un nom d'utilisateur et un fichier de décrivant l'ensemble des droits de chaque utilisateur (comme celui de la question 1), et qui vérifie s'il ne possède pas plus de droits que prévu. Le résultat devra être similaire à la figure suivante.
+4. Installer OpenLDAP ou une alternative open-source et essayer de reproduire cet environnement (utilisateurs, dossiers et droits).
 
 ![carbon (6).png](../../images/exe_out.png)
 
