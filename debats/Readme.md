@@ -34,45 +34,12 @@ Si un groupe est absent ou un membre du groupe ne participe pas au débat, il au
 
 ## Débat 1
 
-Votre entreprise fait un chiffre d'affaires de 12 millions d'euros par an pour un bénéfice nette de 2 millions d'euros. Son produit principal est un capteur de mobilité utilisé dans les centres commerciales, hôtels, et mairies. 
+Formation du personnel pour de meilleures pratiques de programmations contre les buffer overflows ou appliquer les techniques de prévention couteuses tel que ASLR et les canaries. 
 
-Conscient des enjeux sécuritaires, elle voudrait injecter 500K euros pour renforcer la sécurité de ces produits. Malheureusement, deux groupes d'ingénieurs s'affrontent pour investir ces fonds pour se prémunir contre des failles d'intrusions permettant à un individu d'avoir accès au capteur de mobilité et un autre groupe voudrait investir pour se prémunir contre la corruption des données (vol/revente) enregistrées par le capteur.
-
-Votre rôle est de choisir un camp et le défendre en montrant clairement les causes de négliger votre opinion, la pertinence par rapport à votre marché, et les coûts technologiques de suivre l'autre camp.
-
-## Debat 2
-
-Le même contexte resurgit maintenant concernant les attaques de type MITM (Man In the Middle) et DDOS (Distributed Denial of Service). 
-
-Chaque groupe doit se mettre dans la peau d'ingénieurs qui défendent une vision. 
-
-## Débat 3
-
-Une boite se soucie des buffer overflow et ne sait pas si la meilleure solution c'est d'implémenter toutes les protections (canaries, ASLR, etc.) au risque de voir les performances diminuer ou juste former le personnel sur les meilleures pratiques de programmation. De plus, elle se demande quel système d'exploitation utilisé pour combattre au mieux les failles et évoluer dans le temps.
-
-
-Chaque groupe doit se mettre dans la peau d'un clan et soutenir leur vision tout en montrant les failles de l'autre vision.
-
-## Débat 4
-
-Le même contexte que le débat 2. Néamoins, la discorde se situe au niveau du choix du système d'exploitation à utiliser.
-
-Choisissez entre une distribution Linux et Windows et défendez le système d'exploitation de votre choix (par rapport à la problématique de la sécurité). 
-
-## Débat 5
-
-Les attaques qui exploitent les prédictions de branchement sont très difficiles à détecter et quasi impossible à stopper 
-sans payer une dégradation énorme. Néamoins, l'effet pourrait être amoindri en fonction du processeur utilisé. 
-
-Défendez soit les processeurs Intel soit ARM concernant leur robustesse aux attaques covert channel type Spectre ou Meltdown.
-
-Hippolyte et Nolan : Faille d'intrusion
-Morgane et Ilyass : corruption des données
 
 
 # Participants
 
 |    #    	|           **GROUPE 1**          	|                     **GROUPE 2**                    	| **Date de passage** 	|
 |:-------:	|:-------------------------------:	|:---------------------------------------------------:	|:-------------------:	|
-| Débat 1 	|Hippolyte et Nolan (Faille d'intrusion) 	| Morgane et Ilyass (Corruption des données)	|      11-10-2024     	|
-| Débat 2   | Elie Castang et Matthis Daviaud (MITM)  | Gullient Dowan et Malo Goetgheluck (DDOS)   | 14-10-2024 | 
+| Débat 1 	|Kouamé Amoin et Fléchaire Louis (ASLR, Canaries) 	| Luna Boutteloup et Cherif Ones (Formation)	|      03-10-2025     	|
