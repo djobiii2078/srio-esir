@@ -160,6 +160,7 @@ print("Signature vérifiée ✓")
 ### 5.5 Exécution
 
 ```bash
+python3 scripts/gen_keys.py
 python3 trusted/client.py
 ```
 
