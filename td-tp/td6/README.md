@@ -8,7 +8,7 @@ Dans ce TP, nous allons exécuter **le même programme** dans deux modes :
 | **Non fiable (untrusted)**           | Aucune confidentialité, aucune intégrité                  |
 | **Fiable (trusted – contournement)** | Confidentialité des données + détection des modifications |
 
-👉 **Aucun TPM, aucun SGX/TRUSTZone, aucun TEE matériel**.
+**Aucun TPM, aucun SGX/TRUSTZone, aucun TEE matériel**.
 
 Toute la confiance repose sur :
 
@@ -50,7 +50,7 @@ Somme([a, b, c, d]) → entier
 
 ## 3. Organisation du projet
 
-Les étudiants créent l’arborescence suivante :
+Créer l’arborescence suivante :
 
 ```text
 trusted-exec-lab/
@@ -120,7 +120,7 @@ Résultat :
 Somme : 1000
 ```
 
-📌 **Conclusion** :
+**Conclusion** :
 
 > Sans protection, l’OS peut lire, modifier et falsifier le calcul.
 
@@ -234,7 +234,7 @@ Résultat attendu :
 Somme : 4
 ```
 
-📌 L’OS ne voit jamais les données en clair.
+L’OS ne voit jamais les données en clair.
 
 ---
 
@@ -268,7 +268,7 @@ Résultat attendu :
 FAILED
 ```
 
-📌 Toute modification est détectée.
+Toute modification est détectée.
 
 ---
 
